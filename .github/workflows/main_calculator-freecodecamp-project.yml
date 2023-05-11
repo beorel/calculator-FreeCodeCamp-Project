@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'calculator-FreeCodeCamp-Project'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_479D1AA024BB4A8FAC9956CF5A28D7BE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DBE53A59E4B4D06A74D7B97DF399BAB }}
           package: .
